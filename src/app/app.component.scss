@@ -3,7 +3,21 @@ a {
   text-decoration: none;
   border: 1px solid blue;
   border-radius: 4px;
-  }
-  a.st-active {
+}
+
+a.st-active {
   background-color: silver;
-  }
+}
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+a {
+  padding: 10px;
+  margin: 5px;
+}

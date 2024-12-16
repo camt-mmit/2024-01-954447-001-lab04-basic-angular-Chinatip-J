@@ -1,0 +1,32 @@
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+table, th ,td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+h3 {
+  text-align: center;
+}
+main {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  border: 1px solid blue;
+  border-radius: 75px;
+  padding: 7px;
+  margin: 5px;
+  text-align: center;
+}
